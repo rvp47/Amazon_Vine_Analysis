@@ -19,3 +19,8 @@ Deliverable 2: Determine Bias of Vine Reviews
 - There is no difference between Vine and non-Vine members leaving higher reviews.
  
 ## Summary
+Based on this dataset and the results, there is no sufficient evidence of positivity bias for reviews in the Vine program. Approximately 47% of each user type left 5-star reviews for home improvement products. However, this is a bit misleading given that there was a significant difference between the total number of Vine reviews (266) and non-Vine reviews (38,829). Those participating in the Vine program accounted for only 125 5-star reviews whereas those not in the Vine program wrote 18,246 5-star reviews. It cannot be concluded that paid reviewers of home improvement products on Amazon leave more positive reviews than those who were unpaid.
+
+Other analyses that can be done to determine if there is positivity bias include:
+- Analyzing the statisical distribution of the star ratings by members and non-members
+- Analyzing 1, 2, 3, and 4 star reviews for Vine and non-Vine members.
